@@ -15,6 +15,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## DOCKER 
+`docker pull valentinb06/spotapi:v0.2`
+
+`docker run -d --name apispot -p 8080:80 valentinb06/spotapi:v0.2`
+
+connect to `http://localhost:8080/`
+
+Login with spotify in the menu 
+maybe you will have an error change the port from `localhost:4200/authorized/#access_token=` to `localhost:8080/authorized/#access_token=` 
+and go back with <-- button !
+
+wp you good to go 
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
