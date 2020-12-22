@@ -2,8 +2,9 @@
 
 ## We need to delete everything concerning "read_birthdate" in spotify-auth in nodes_modules
 
-Delete this line in "spotify-auth.js" in "nodes_modules" : READ_BIRTHDATE: 'user-read-birthdate'
-Delete this parameter from "spotify-auth.metadata.json" in "nodes_modules" : "READ_BIRTHDATE":"user-read-birthdate"
+Delete this line in "spotify-auth.js" in "nodes_modules" : READ_BIRTHDATE: 'user-read-birthdate'.
+
+Delete this parameter from "spotify-auth.metadata.json" in "nodes_modules" : "READ_BIRTHDATE":"user-read-birthdate".
 ________________________________________________________________________________________________________________________________________________________________________________________
 
 # SpotAPI
