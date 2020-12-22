@@ -1,4 +1,6 @@
-# /!\ Before everything for authentication : delete everything concerning "read_birthdate" in spotify-auth in nodes_modules /!\
+# /!\ Before everything for authentication /!\
+
+## We need to delete everything concerning "read_birthdate" in spotify-auth in nodes_modules
 
 Delete this line in "spotify-auth.js" in "nodes_modules" : READ_BIRTHDATE: 'user-read-birthdate'
 Delete this parameter from "spotify-auth.metadata.json" in "nodes_modules" : "READ_BIRTHDATE":"user-read-birthdate"
@@ -63,8 +65,8 @@ Find playlists saved by the currend user
 
 ### Another user's informations
 
-
+Find informations about another user
 
 ### Another user's playlists
 
-
+Find playlists about another user
