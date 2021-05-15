@@ -1,3 +1,11 @@
+# SpotAPI
+
+![GitHub contributors](https://img.shields.io/github/contributors/jesa974/SpotAPI?color=green&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/jesa974/SpotAPI?color=orange&label=Java&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/SpotAPI?label=project%20size&style=flat-square&color=lightgrey)
+
+---
+
 # /!\ Before everything for authentication /!\
 
 ## We need to delete everything concerning "read_birthdate" in spotify-auth in nodes_modules
@@ -5,7 +13,8 @@
 Delete this line in "spotify-auth.js" in "nodes_modules" : READ_BIRTHDATE: 'user-read-birthdate'.
 
 Delete this parameter from "spotify-auth.metadata.json" in "nodes_modules" : "READ_BIRTHDATE":"user-read-birthdate".
-________________________________________________________________________________________________________________________________________________________________________________________
+
+---
 
 # SpotAPI
 
@@ -48,8 +57,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-________________________________________________________________________________________________________________________________________________________________________________________
-
+---
 
 # Features
 
