@@ -1,7 +1,7 @@
 # SpotAPI
 
 ![GitHub contributors](https://img.shields.io/github/contributors/jesa974/SpotAPI?color=green&style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/jesa974/SpotAPI?color=orange&label=Java&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/jesa974/SpotAPI?color=orange&label=TypeScript&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/SpotAPI?label=project%20size&style=flat-square&color=lightgrey)
 
 ---
